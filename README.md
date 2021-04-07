@@ -12,6 +12,7 @@ in programming, some not, but all of them impacted our industry somehow.
 - Fundamental Concepts in Programming Languages (1967) by C. Strachey
 - Go To statements considered harmfull (1968) by E.W. Dijkstra
 - An Axiomatic Basis for Computer Programming (1969) by C.A.R. Hoare
+- Program Development by Stepwise Refinement (1971) by N. Wirth
 - On the criteria to be used in decomposing systems into modules (1971) by D.L. Parnas
 - On Understanding Types, Data Abstraction, and Polymorphism (1985) by L. Cardelli, P. Wegner
 - No Silver Bullet: Essence and Accidents of Software Engineering (1987) by F.P. Brooks
