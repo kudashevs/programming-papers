@@ -8,15 +8,15 @@ in programming, some not, but all of them impacted our industry somehow.
 
 ## List
 
-- The Next 700 Programming Languages (1965) by Landin
-- Fundamental Concepts in Programming Languages (1967) by Strachey
-- Go To statements considered harmfull (1968) by Dijkstra
-- An Axiomatic Basis for Computer Programming (1969) by Hoare
-- On the criteria to be used in decomposing systems into modules (1971) by Parnas
-- On Understanding Types, Data Abstraction, and Polymorphism (1985) by Cardelli
-- No Silver Bullet: Essence and Accidents of Software Engineering (1987) by Brooks
-- Graph-Based Algorithms for Boolean Function Manipulation (1986)
-- Big Ball of Mud (1999) by Foote, Yoder
-- An Introduction to Software Architecture (1993) by Garlan
-- A Note on Distributed Computing (1994) by Waldo
-- Design Principles (1996) by Martin
+- The Next 700 Programming Languages (1965) by P. J. Landin
+- Fundamental Concepts in Programming Languages (1967) by C. Strachey
+- Go To statements considered harmfull (1968) by E.W. Dijkstra
+- An Axiomatic Basis for Computer Programming (1969) by C.A.R. Hoare
+- On the criteria to be used in decomposing systems into modules (1971) by D.L. Parnas
+- On Understanding Types, Data Abstraction, and Polymorphism (1985) by L. Cardelli, P. Wegner
+- No Silver Bullet: Essence and Accidents of Software Engineering (1987) by F.P. Brooks
+- Graph-Based Algorithms for Boolean Function Manipulation (1986) by R.E. Bryant
+- Big Ball of Mud (1999) by B. Foote, J. Yoder
+- An Introduction to Software Architecture (1993) by D. Garlan, M. Shaw
+- A Note on Distributed Computing (1994) by J. Waldo, G. Wyant, A. Wollrath
+- Design Principles (1996) by R.C. Martin
