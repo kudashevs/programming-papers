@@ -13,8 +13,10 @@ in programming, some not, but all of them impacted our industry somehow.
 - Go To statements considered harmfull (1968) by E.W. Dijkstra
 - An Axiomatic Basis for Computer Programming (1969) by C.A.R. Hoare
 - Program Development by Stepwise Refinement (1971) by N. Wirth
+- Information Distribution Aspects of Design Methodology (1971) by D.L. Parnas
 - On the criteria to be used in decomposing systems into modules (1971) by D.L. Parnas
 - Programming with Abstract Data Types (1974) by B. Liskov, S. Zilles
+- Abstract types defined as classes of variables (1976) by D.L. Parnas, J.E. Shore
 - On Understanding Types, Data Abstraction, and Polymorphism (1985) by L. Cardelli, P. Wegner
 - No Silver Bullet: Essence and Accidents of Software Engineering (1987) by F.P. Brooks
 - Graph-Based Algorithms for Boolean Function Manipulation (1986) by R.E. Bryant
