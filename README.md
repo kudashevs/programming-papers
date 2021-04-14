@@ -18,6 +18,7 @@ in programming, some not, but all of them impacted our industry somehow.
 - Programming with Abstract Data Types (1974) by B. Liskov, S. Zilles
 - Abstract types defined as classes of variables (1976) by D.L. Parnas, J.E. Shore
 - On Understanding Types, Data Abstraction, and Polymorphism (1985) by L. Cardelli, P. Wegner
+- Hints for Computer System Design (1983) B.W. Lampson
 - No Silver Bullet: Essence and Accidents of Software Engineering (1987) by F.P. Brooks
 - Graph-Based Algorithms for Boolean Function Manipulation (1986) by R.E. Bryant
 - Big Ball of Mud (1999) by B. Foote, J. Yoder
