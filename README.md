@@ -15,6 +15,7 @@ in programming, some not, but all of them impacted our industry somehow.
 - Program Development by Stepwise Refinement (1971) by N. Wirth
 - Information Distribution Aspects of Design Methodology (1971) by D.L. Parnas
 - On the criteria to be used in decomposing systems into modules (1971) by D.L. Parnas
+- Hierarchical Program Structures. Structured Programming (1972) O.-J. Dahl, C.A.R Hoare
 - Programming with Abstract Data Types (1974) by B. Liskov, S. Zilles
 - Abstract types defined as classes of variables (1976) by D.L. Parnas, J.E. Shore
 - On Understanding Types, Data Abstraction, and Polymorphism (1985) by L. Cardelli, P. Wegner
