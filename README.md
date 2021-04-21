@@ -17,6 +17,7 @@ in programming, some not, but all of them impacted our industry somehow.
 - On the criteria to be used in decomposing systems into modules (1971) by D.L. Parnas
 - Hierarchical Program Structures. Structured Programming (1972) O.-J. Dahl, C.A.R Hoare
 - Programming with Abstract Data Types (1974) by B. Liskov, S. Zilles
+- Exception handling: issues and a Proposed Notation (1975) J.B. Goodenough
 - Abstract types defined as classes of variables (1976) by D.L. Parnas, J.E. Shore
 - On Understanding Types, Data Abstraction, and Polymorphism (1985) by L. Cardelli, P. Wegner
 - Hints for Computer System Design (1983) B.W. Lampson
