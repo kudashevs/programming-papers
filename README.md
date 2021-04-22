@@ -28,3 +28,8 @@ in programming, some not, but all of them impacted our industry somehow.
 - An Introduction to Software Architecture (1993) by D. Garlan, M. Shaw
 - A Note on Distributed Computing (1994) by J. Waldo, G. Wyant, A. Wollrath
 - Design Principles (1996) by R.C. Martin
+
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
