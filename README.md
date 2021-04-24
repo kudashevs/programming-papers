@@ -16,6 +16,7 @@ in programming, some not, but all of them impacted our industry somehow.
 - Information Distribution Aspects of Design Methodology (1971) by D.L. Parnas
 - On the criteria to be used in decomposing systems into modules (1971) by D.L. Parnas
 - Hierarchical Program Structures (1972) O-J. Dahl, C.A.R. Hoare
+- Protection in programming languages (1973) J.H. Morris
 - Programming with Abstract Data Types (1974) by B. Liskov, S. Zilles
 - Exception handling: issues and a Proposed Notation (1975) J.B. Goodenough
 - Abstract types defined as classes of variables (1976) by D.L. Parnas, J.E. Shore
