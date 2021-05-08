@@ -28,11 +28,11 @@ in programming, some not, but all of them impacted our industry somehow.
 - No Silver Bullet: Essence and Accidents of Software Engineering (1987) by F.P. Brooks
 - Graph-Based Algorithms for Boolean Function Manipulation (1986) by R.E. Bryant
 - Data abstraction and hierarchy (1987) by B. Liskov
-- Big Ball of Mud (1999) by B. Foote, J. Yoder
 - An Introduction to Software Architecture (1993) by D. Garlan, M. Shaw
 - A Note on Distributed Computing (1994) by J. Waldo, G. Wyant, A. Wollrath
 - Design Patterns: Abstraction and Reuse of Object-Oriented Design (1993) by E.Gamma, R. Helm, R. Johnson, J. Vlissides
 - Design Principles (1996) by R.C. Martin
+- Big Ball of Mud (1997) by B. Foote, J. Yoder
 
 
 ## License
