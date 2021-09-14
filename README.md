@@ -35,6 +35,7 @@ in programming, some not, but all of them impacted our industry somehow.
 - Design Patterns: Abstraction and Reuse of Object-Oriented Design (1993) by E.Gamma, R. Helm, R. Johnson, J. Vlissides
 - Design Principles (1996) by R.C. Martin
 - Big Ball of Mud (1997) by B. Foote, J. Yoder
+- Protected Variation: The importance of being closed (2001) by C. Larman
 
 
 ## License
