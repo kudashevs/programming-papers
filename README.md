@@ -12,6 +12,7 @@ in programming, some of them not. However, all of them significantly influenced 
 - Fundamental Concepts in Programming Languages (1967) by C. Strachey
 - Class and Subclass Declarations (1967) by O-J. Dahl, K. Nygaard
 - Go To Statement Considered Harmful (1968) by E.W. Dijkstra
+- The Structure of the "THE"-Multiprogramming System (1968) by E.W. Dijkstra
 - An Axiomatic Basis for Computer Programming (1969) by C.A.R. Hoare
 - Notes on structured programming (1970) by E.W. Dijkstra
 - Program Development by Stepwise Refinement (1971) by N. Wirth
