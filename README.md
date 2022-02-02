@@ -18,7 +18,7 @@ in programming, some not, but all of them impacted our industry somehow.
 - Information Distribution Aspects of Design Methodology (1971) by D.L. Parnas
 - On the Criteria To Be Used in Decomposing Systems into Modules (1971) by D.L. Parnas
 - Hierarchical Program Structures (1972) by O-J. Dahl, C.A.R. Hoare
-- Protection in programming languages (1973) by J.H. Morris
+- Protection in Programming Languages (1973) by J.H. Morris
 - Structured Design (1974) by W.P. Stevens, G.J. Myers, L.L. Constantine
 - Programming with Abstract Data Types (1974) by B. Liskov, S. Zilles
 - Exception handling: issues and a Proposed Notation (1975) by J.B. Goodenough
