@@ -28,7 +28,7 @@ in programming, some not, but all of them impacted our industry somehow.
 - No Silver Bullet: Essence and Accidents of Software Engineering (1987) by F.P. Brooks
 - Graph-Based Algorithms for Boolean Function Manipulation (1986) by R.E. Bryant
 - Data Abstraction and Hierarchy (1987) by B. Liskov
-- Object-oriented programming: an objective sense of style (1988) by K. Lieberherr, I. Holland, A. Riel
+- Object-Oriented Programming: An Objective Sense of Style (1988) by K. Lieberherr, I. Holland, A. Riel
 - Writing Correct Software (1990) by B. Meyer
 - An Introduction to Software Architecture (1993) by D. Garlan, M. Shaw
 - A Note on Distributed Computing (1994) by J. Waldo, G. Wyant, A. Wollrath
