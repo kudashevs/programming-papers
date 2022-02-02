@@ -21,7 +21,7 @@ in programming, some not, but all of them impacted our industry somehow.
 - Protection in Programming Languages (1973) by J.H. Morris
 - Structured Design (1974) by W.P. Stevens, G.J. Myers, L.L. Constantine
 - Programming with Abstract Data Types (1974) by B. Liskov, S. Zilles
-- Exception handling: issues and a Proposed Notation (1975) by J.B. Goodenough
+- Exception Handling: Issues and a Proposed Notation (1975) by J.B. Goodenough
 - Abstract types defined as classes of variables (1976) by D.L. Parnas, J.E. Shore
 - On Understanding Types, Data Abstraction, and Polymorphism (1985) by L. Cardelli, P. Wegner
 - Hints for Computer System Design (1983) by B.W. Lampson
