@@ -3,7 +3,7 @@
 This is a list of important and interesting papers and publications on programming and computer science. This list
 was inspired by a bunch of articles like "Papers Every Programmer Should Read" and it is focused on programming.
 It contains well-known and not so well-known papers that are worth reading. Some of these publications made a revolution
-in programming, some not, but all of them impacted our industry somehow.
+in programming, some of them not. However, all of them significantly influenced our industry.
 
 
 ## List
