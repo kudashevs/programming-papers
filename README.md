@@ -36,7 +36,7 @@ in programming, some not, but all of them impacted our industry somehow.
 - Design Principles (1996) by R.C. Martin
 - Big Ball of Mud (1997) by B. Foote, J. Yoder
 - Behavioral Subtyping Using Invariants and Constraints (1999) by B. Liskov, J. Wing
-- Protected Variation: The importance of being closed (2001) by C. Larman
+- Protected Variation: The Importance of Being Closed (2001) by C. Larman
 
 
 ## License
