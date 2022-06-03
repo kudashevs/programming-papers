@@ -20,6 +20,7 @@ in programming, some of them not. However, all of them significantly influenced 
 - On the Criteria To Be Used in Decomposing Systems into Modules (1971) by D.L. Parnas
 - Hierarchical Program Structures (1972) by O-J. Dahl, C.A.R. Hoare
 - Protection in Programming Languages (1973) by J.H. Morris
+- Computer programming as an art (1974) by D.E. Knuth
 - Structured Design (1974) by W.P. Stevens, G.J. Myers, L.L. Constantine
 - Programming with Abstract Data Types (1974) by B. Liskov, S. Zilles
 - Exception Handling: Issues and a Proposed Notation (1975) by J.B. Goodenough
