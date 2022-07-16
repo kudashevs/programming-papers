@@ -5,8 +5,7 @@ was inspired by a bunch of articles like "Papers Every Programmer Should Read" a
 It contains well-known and not so well-known papers that are worth reading. Some of these publications made a revolution
 in programming, some of them not. However, all of them significantly influenced our industry.
 
-
-## List
+## The list
 
 - The Next 700 Programming Languages (1965) by P. J. Landin
 - Fundamental Concepts in Programming Languages (1967) by C. Strachey
@@ -40,7 +39,6 @@ in programming, some of them not. However, all of them significantly influenced 
 - Big Ball of Mud (1997) by B. Foote, J. Yoder
 - Behavioral Subtyping Using Invariants and Constraints (1999) by B. Liskov, J. Wing
 - Protected Variation: The Importance of Being Closed (2001) by C. Larman
-
 
 ## License
 
