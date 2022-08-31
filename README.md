@@ -18,6 +18,7 @@ in programming, some of them not. However, all of them significantly influenced 
 - Information Distribution Aspects of Design Methodology (1971) by D.L. Parnas
 - On the Criteria To Be Used in Decomposing Systems into Modules (1971) by D.L. Parnas
 - Hierarchical Program Structures (1972) by O-J. Dahl, C.A.R. Hoare
+- The Humble Programmer (1972) by E.W. Dijkstra
 - Protection in Programming Languages (1973) by J.H. Morris
 - Computer programming as an art (1974) by D.E. Knuth
 - Structured Design (1974) by W.P. Stevens, G.J. Myers, L.L. Constantine
