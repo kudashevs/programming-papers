@@ -1,4 +1,4 @@
-# Important papers on programming and computer science
+# Papers on programming and computer science
 
 This is a list of important and interesting papers and publications on programming and computer science. This list
 was inspired by a bunch of articles like "Papers Every Programmer Should Read" and it is focused on programming.
