@@ -23,6 +23,7 @@ in programming, some of them not. However, all of them significantly influenced 
 - Computer programming as an art (1974) by D.E. Knuth
 - Structured Design (1974) by W.P. Stevens, G.J. Myers, L.L. Constantine
 - Programming with Abstract Data Types (1974) by B. Liskov, S. Zilles
+- On the role of scientific thought (1974) by E.W. Dijkstra
 - Exception Handling: Issues and a Proposed Notation (1975) by J.B. Goodenough
 - Abstract types defined as classes of variables (1976) by D.L. Parnas, J.E. Shore
 - The Emperor’s Old Clothes (1981) by C.A.R. Hoare
