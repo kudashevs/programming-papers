@@ -44,6 +44,7 @@ in programming, some of them not. However, all of them significantly influenced 
 - Behavioral Subtyping Using Invariants and Constraints (1999) by B. Liskov, J. Wing
 - Endo-Testing: Unit Testing with Mock Objects (2001) by T. Mackinnon, S. Freeman, P. Craig
 - Protected Variation: The Importance of Being Closed (2001) by C. Larman
+- Mock Roles, not Objects (2004) by S. Freeman, N. Pryce, T. Mackinnon, J. Walnes
 
 ## License
 
