@@ -7,6 +7,7 @@ in programming, some of them not. However, all of them significantly influenced 
 
 ## The list
 
+- Recursive Programming (1960) by E.W. Dijkstra
 - The Next 700 Programming Languages (1965) by P.J. Landin
 - Fundamental Concepts in Programming Languages (1967) by C. Strachey
 - Class and Subclass Declarations (1967) by O-J. Dahl, K. Nygaard
