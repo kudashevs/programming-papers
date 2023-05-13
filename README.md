@@ -14,6 +14,7 @@ in programming, some of them not. However, all of them significantly influenced 
 - Go To Statement Considered Harmful (1968) by E.W. Dijkstra
 - The Structure of the "THE"-Multiprogramming System (1968) by E.W. Dijkstra
 - An Axiomatic Basis for Computer Programming (1969) by C.A.R. Hoare
+- Managing the Development of Large Software Systems (1970) by W.W. Royce
 - Notes on structured programming (1970) by E.W. Dijkstra
 - Program Development by Stepwise Refinement (1971) by N. Wirth
 - Information Distribution Aspects of Design Methodology (1971) by D.L. Parnas
