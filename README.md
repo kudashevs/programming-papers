@@ -37,6 +37,7 @@ in programming, some of them not. However, all of them significantly influenced 
 - What Is Object-Oriented Programming? (1988) by B. Stroustrup
 - Object-Oriented Programming: An Objective Sense of Style (1988) by K. Lieberherr, I. Holland, A. Riel
 - Designing Reusable Classes (1988) by R.E. Johnson, B. Foote
+- Formulations and Benefits of Law of Demeter (1989) by K. Lieberherr, I. Holland 
 - Writing Correct Software (1990) by B. Meyer
 - An Introduction to Software Architecture (1993) by D. Garlan, M. Shaw
 - A Note on Distributed Computing (1994) by J. Waldo, G. Wyant, A. Wollrath
