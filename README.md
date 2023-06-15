@@ -40,6 +40,7 @@ in programming, some of them not. However, all of them significantly influenced 
 - Formulations and Benefits of Law of Demeter (1989) by K. Lieberherr, I. Holland 
 - Object-Oriented Design: A Responsibility-Driven Approach (1989) by R. Wirfs-Brock, B. Wilkerson
 - Writing Correct Software (1990) by B. Meyer
+- What is Software Design? (1992) by J.W. Reeves
 - An Introduction to Software Architecture (1993) by D. Garlan, M. Shaw
 - A Note on Distributed Computing (1994) by J. Waldo, G. Wyant, A. Wollrath
 - Design Patterns: Abstraction and Reuse of Object-Oriented Design (1993) by E. Gamma, R. Helm, R. Johnson, J. Vlissides
