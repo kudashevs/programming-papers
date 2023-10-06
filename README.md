@@ -51,6 +51,7 @@ in programming, some of them not. However, all of them significantly influenced 
 - Endo-Testing: Unit Testing with Mock Objects (2001) by T. Mackinnon, S. Freeman, P. Craig
 - Protected Variation: The Importance of Being Closed (2001) by C. Larman
 - Mock Roles, not Objects (2004) by S. Freeman, N. Pryce, T. Mackinnon, J. Walnes
+- Out of the Tar Pit (2006) by B. Moseley, P. Marks
 
 ## License
 
