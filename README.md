@@ -35,6 +35,7 @@ in programming, some of them not. However, all of them significantly influenced 
 - Graph-Based Algorithms for Boolean Function Manipulation (1986) by R.E. Bryant
 - Data Abstraction and Hierarchy (1987) by B. Liskov
 - Using Pattern Languages for Object-Oriented Programs (1987) by K. Beck, W. Cunningham
+- Global Value Numbers and Redundant Computations (1988) by B.K. Rosen, M.N. Wegman, F.K. Zadeck
 - What Is Object-Oriented Programming? (1988) by B. Stroustrup
 - Object-Oriented Programming: An Objective Sense of Style (1988) by K. Lieberherr, I. Holland, A. Riel
 - Designing Reusable Classes (1988) by R.E. Johnson, B. Foote
