@@ -28,6 +28,7 @@ in programming, some of them not. However, all of them significantly influenced 
 - On the role of scientific thought (1974) by E.W. Dijkstra
 - Exception Handling: Issues and a Proposed Notation (1975) by J.B. Goodenough
 - Abstract types defined as classes of variables (1976) by D.L. Parnas, J.E. Shore
+- A Complexity Measure (1976) by T.J. McCabe
 - The Paradigms of Programming (1979) by R.W. Floyd
 - The Emperor’s Old Clothes (1981) by C.A.R. Hoare
 - Hints for Computer System Design (1983) by B.W. Lampson
