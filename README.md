@@ -48,6 +48,7 @@ in programming, some of them not. However, all of them significantly influenced 
 - An Introduction to Software Architecture (1993) by D. Garlan, M. Shaw
 - Design Patterns: Abstraction and Reuse of Object-Oriented Design (1993) by E. Gamma, R. Helm, R. Johnson, J. Vlissides
 - A Note on Distributed Computing (1994) by J. Waldo, G. Wyant, A. Wollrath
+- A Metrics Suite For Object Oriented Design (1994) by S.R. Chidamber, C.F. Kemerer
 - Design Principles (1996) by R.C. Martin
 - Big Ball of Mud (1997) by B. Foote, J. Yoder
 - Applying the ABC metric to C, C++, and Java (1997) by J. Fitzpatrick
