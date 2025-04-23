@@ -46,8 +46,8 @@ in programming, some of them not. However, all of them significantly influenced 
 - Writing Correct Software (1990) by B. Meyer
 - What is Software Design? (1992) by J.W. Reeves
 - An Introduction to Software Architecture (1993) by D. Garlan, M. Shaw
-- A Note on Distributed Computing (1994) by J. Waldo, G. Wyant, A. Wollrath
 - Design Patterns: Abstraction and Reuse of Object-Oriented Design (1993) by E. Gamma, R. Helm, R. Johnson, J. Vlissides
+- A Note on Distributed Computing (1994) by J. Waldo, G. Wyant, A. Wollrath
 - Design Principles (1996) by R.C. Martin
 - Big Ball of Mud (1997) by B. Foote, J. Yoder
 - Applying the ABC metric to C, C++, and Java (1997) by J. Fitzpatrick
