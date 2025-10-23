@@ -42,6 +42,7 @@ in programming, some of them not. However, all of them significantly influenced 
 - Object-Oriented Programming: An Objective Sense of Style (1988) by K. Lieberherr, I. Holland, A. Riel
 - Designing Reusable Classes (1988) by R.E. Johnson, B. Foote
 - Formulations and Benefits of Law of Demeter (1989) by K. Lieberherr, I. Holland 
+- Conception, Evolution, and Application of Functional Programming Languages (1989) by P. Hudak
 - Object-Oriented Design: A Responsibility-Driven Approach (1989) by R. Wirfs-Brock, B. Wilkerson
 - Writing Correct Software (1990) by B. Meyer
 - What is Software Design? (1992) by J.W. Reeves
